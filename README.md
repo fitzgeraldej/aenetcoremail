@@ -1,6 +1,5 @@
 
-# aenetcoremail
-AE.Net.Core.Mail
+# AE.Net.Core.Mail 
 
 .Net Core C# version of the popular POP/IMAP Mail Client by Andy Edinborough
 
