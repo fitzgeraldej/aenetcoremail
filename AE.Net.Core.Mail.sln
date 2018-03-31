@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AE.Net.Core.Mail", "AE.Net.Core.Mail\AE.Net.Core.Mail.csproj", "{93A22A00-EAE9-494E-93A5-9693B0037C8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AE.Net.Core.Mail.Test", "AE.Net.Core.Mail.Test\AE.Net.Core.Mail.Test.csproj", "{31CF0F9F-00E5-4036-9C31-E24119049CF2}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AE.Net.Core.Mail", "AE.Net.Core.Mail\AE.Net.Core.Mail.csproj", "{93A22A00-EAE9-494E-93A5-9693B0037C8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AE.Net.Core.Mail.Test", "AE.Net.Core.Mail.Test\AE.Net.Core.Mail.Test.csproj", "{31CF0F9F-00E5-4036-9C31-E24119049CF2}"
+>>>>>>> master
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
