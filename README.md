@@ -1,5 +1,6 @@
 
 # AE.Net.Core.Mail 
+[![Build Status](https://hawkbs.visualstudio.com/_apis/public/build/definitions/568f903f-f00a-42d8-8ed6-dd8e0e8c9a4d/1/badge)](https://hawkbs.visualstudio.com/_apis/public/build/definitions/568f903f-f00a-42d8-8ed6-dd8e0e8c9a4d/1/badge)
 
 .Net Core C# version of the popular POP/IMAP Mail Client by Andy Edinborough
 
